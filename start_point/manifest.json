@@ -1,8 +1,7 @@
 {
-  "image_name": "cyberdojofoundation/gcc_cpputest",
+  "image_name": "cyberdojofoundation/gcc_cpputest:ead1b76",
   "display_name": "C (gcc), CppUTest",
-  "visible_filenames":
-  [
+  "visible_filenames": [
     "untitledTest.cpp",
     "AllTests.cpp",
     "cyber-dojo.sh",
@@ -10,18 +9,20 @@
     "untitled.h",
     "makefile"
   ],
-  "highlight_filenames":
-  [
+  "highlight_filenames": [
     "untitled.c",
     "untitled.h",
     "untitledTest.cpp"
   ],
-  "filename_extension": [ ".c", ".h", ".cpp" ],
+  "filename_extension": [
+    ".c",
+    ".h",
+    ".cpp"
+  ],
   "max_seconds": 10,
   "tab_size": 4,
-  "progress_regexs" :
-  [
-    "Errors \(.* ms\)",
-    "OK \(.* ms\)"
+  "progress_regexs": [
+    "Errors (.* ms)",
+    "OK (.* ms)"
   ]
 }
