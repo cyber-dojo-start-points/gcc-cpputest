@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/gcc_cpputest:3a93ea4",
+  "image_name": "cyberdojofoundation/gcc_cpputest:a15cf82",
   "display_name": "C (gcc), CppUTest",
   "visible_filenames": [
     "untitledTest.cpp",
