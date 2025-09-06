@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/gcc_cpputest:95cf2bd",
-  "display_name": "C (gcc), CppUTest",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cpputest:301c0ac",
+  "display_name": "C (gcc 15.2.0), CppUTest 4.0",
   "visible_filenames": [
     "untitledTest.cpp",
     "AllTests.cpp",
