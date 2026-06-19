@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/gcc_cpputest:0230227",
   "display_name": "C (gcc 15.2.0), CppUTest 4.0",
+  "language": [
+    "C (gcc)",
+    "15.2.0"
+  ],
+  "test_framework": [
+    "CppUTest",
+    "4.0"
+  ],
   "visible_filenames": [
     "untitledTest.cpp",
     "AllTests.cpp",
