@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cpputest:0230227",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cpputest:a6e1d8d",
   "display_name": "C (gcc 15.2.0), CppUTest 4.0",
   "language": [
     "C (gcc)",
@@ -17,6 +17,7 @@
     "untitled.h",
     "makefile"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "highlight_filenames": [
     "untitled.c",
     "untitled.h",
