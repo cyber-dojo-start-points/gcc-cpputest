@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "undefined reference to .the_checksum_is.$": 1,
+    "^collect2: error: ld returned 1 exit status$": 1,
+    "^compiling checksum\\.c$": 0,
+    "^Running untitled_tests$": 0,
+    "^OK \\(": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

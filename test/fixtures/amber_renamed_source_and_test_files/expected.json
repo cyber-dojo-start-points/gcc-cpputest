@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^make: \\*\\*\\* No rule to make target 'objs/untitledTest\\.o', needed by 'untitled_tests'\\.  Stop\\.$": 1,
+    "^compiling ": 0,
+    "^OK \\(": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

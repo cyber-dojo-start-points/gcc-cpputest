@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^OK \\(2 tests, 2 ran, 2 checks, 0 ignored, 0 filtered out, [0-9]+ ms\\)$": 1,
+    "^compiling answerSizeTest\\.cpp$": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

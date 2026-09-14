@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Errors \\(1 failures, 2 tests, 2 ran, 2 checks, 0 ignored, 0 filtered out, [0-9]+ ms\\)$": 1,
+    "^answerSizeTest\\.cpp:[0-9]+: error: Failure in TEST\\(AnswerSize, the_answer_is_three_digits_long\\)$": 1,
+    "^untitledTest\\.cpp:[0-9]+: error: Failure in TEST\\(": 0,
+    "^OK \\(": 0
+  },
+  "truncated": false
+}
