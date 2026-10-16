@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cpputest:2b9a7a7",
-  "display_name": "C (gcc 15.2.0), CppUTest 4.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cpputest:a7ca6a8@sha256:9395ca8069850c714c256c425a1fd4f58738e68540da3c74aa0fbc8d901c6170",
+  "display_name": "C (gcc 16.2.0), CppUTest 4.0",
   "language": [
     "C (gcc)",
-    "15.2.0"
+    "16.2.0"
   ],
   "test_framework": [
     "CppUTest",
